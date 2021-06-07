@@ -1,6 +1,0 @@
-{
-  "blacklist": {
-    "words": "word[]"
-  },
-  "word": "string"
-}
